@@ -13,7 +13,6 @@ All stock photos are free for commercial use under the [Pexels License](https://
 | A festive tray of sweets with flowers and a lit diya | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/traditional-indian-sweets-18488300/) |
 | Assorted sweets on a platter with rose petals | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/traditional-indian-sweets-18488311/) |
 | Yellow ghee laddus on a clay plate | Jahra Tasfia Reza | [Pexels](https://www.pexels.com/photo/traditional-indian-sweet-ladoo-on-clay-plate-40000006/) |
-| Besan laddus and barfi | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/besan-laddoo-and-barfi-18488312/) |
 | Diamond-cut kaju katli | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/kaju-katri-18488310/) |
 | Jangiri (imarti) in saffron syrup | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/traditional-indian-sweets-imrati-18488314/) |
 | Gulab jamun | Gaurav Kumar | [Pexels](https://www.pexels.com/photo/gulab-jamun-18488298/) |

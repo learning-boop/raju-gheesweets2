@@ -45,7 +45,7 @@ export const IMAGES = {
   // sweets
   gheeLaddu: px(40000006, 'Yellow ghee laddus on a clay plate', 'Jahra Tasfia Reza', 'https://www.pexels.com/photo/traditional-indian-sweet-ladoo-on-clay-plate-40000006/'),
   motichoorLaddu: own('/images/motichoor-laddu.webp', 'Motichoor laddus topped with almond slivers and pistachio on a banana leaf in a brass plate', "Shop's own photo"),
-  besan: px(18488312, 'Besan laddus and barfi', 'Gaurav Kumar', 'https://www.pexels.com/photo/besan-laddoo-and-barfi-18488312/'),
+  besanLaddu: own('/images/besan-laddu.webp', 'Besan laddus topped with almond slivers and pistachio on a banana leaf in a brass plate', "Shop's own photo"),
   kajuKatli: px(18488310, 'Diamond-cut kaju katli', 'Gaurav Kumar', 'https://www.pexels.com/photo/kaju-katri-18488310/'),
   jangiri: px(18488314, 'Jangiri (imarti) in saffron syrup', 'Gaurav Kumar', 'https://www.pexels.com/photo/traditional-indian-sweets-imrati-18488314/'),
   gulabJamun: px(18488298, 'Gulab jamun', 'Gaurav Kumar', 'https://www.pexels.com/photo/gulab-jamun-18488298/'),

@@ -25,7 +25,7 @@ export const PRODUCTS = [
 
   // traditional
   { id: 'motichoor', name: 'Motichoor Laddu', te: 'మోతీచూర్ లడ్డు', cats: ['traditional'], price: 340, unit: '500 g', img: I.motichoorLaddu, note: 'Pearl-fine boondi with saffron and cardamom.' },
-  { id: 'besan-laddu', name: 'Besan Laddu', te: 'శనగపిండి లడ్డు', cats: ['traditional'], price: 300, unit: '500 g', img: I.besan, note: 'Gram flour roasted slowly in ghee.' },
+  { id: 'besan-laddu', name: 'Besan Laddu', te: 'శనగపిండి లడ్డు', cats: ['traditional'], price: 300, unit: '500 g', img: I.besanLaddu, note: 'Gram flour roasted slowly in ghee.' },
   { id: 'jangiri', name: 'Jangiri', te: 'జాంగ్రీ', cats: ['traditional'], price: 260, unit: '500 g', img: I.jangiri, note: 'Urad dal spirals soaked in saffron syrup.' },
   { id: 'jalebi', name: 'Jalebi', te: 'జిలేబీ', cats: ['traditional', 'hots'], price: 220, unit: '500 g', img: I.jalebi, note: 'Crisp, hot and dripping with syrup.' },
   { id: 'gulab-jamun', name: 'Gulab Jamun', te: 'గులాబ్ జామూన్', cats: ['traditional'], price: 240, unit: '500 g', img: I.gulabJamun, note: 'Khoya dumplings in rose-cardamom syrup.' },
